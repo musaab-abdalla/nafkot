@@ -1,2 +1,2 @@
 # nafkot
-Ethiopian restaurant website theme.
+Restaurant website theme.
